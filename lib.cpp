@@ -7,7 +7,7 @@ char nome[20];
 cin>>nome;
 for(int i=0; i<10;i++){
     if (strcmp(nome,array[i])==0){
-        cout<<i+1;
+        cout<<i;
         return;}}
 cout<<"non presente";
 return;
