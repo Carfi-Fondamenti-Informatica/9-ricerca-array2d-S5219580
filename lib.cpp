@@ -1,4 +1,5 @@
-#include<iostream>
+#include <iostream>
+#include <cstring>
 #include "lib.h"
 using namespace std;
 void verifica(char array[10][20]){
